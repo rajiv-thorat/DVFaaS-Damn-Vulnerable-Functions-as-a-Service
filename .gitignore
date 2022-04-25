@@ -24,3 +24,4 @@ xxe/xxe-example/.chalice/deployed/dev.json
 injection/mqtt_rds_sql_event_injection/sqli/.chalice/deployed/dev.json
 insecure_deserialization/reverse_shell.yml
 insecure_deserialization/insecure-deserialization/.chalice/config.json
+/.dccache
